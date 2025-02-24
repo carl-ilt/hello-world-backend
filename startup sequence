@@ -1,0 +1,12 @@
+#in terminal, go to working dir
+cd /Users/cjh/dev/django/backend
+
+# activate virtual environment
+source venv/bin/activate
+
+# start django server
+python manage.py runserver
+
+# check web page
+http://127.0.0.1:8000/
+
